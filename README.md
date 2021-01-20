@@ -1,4 +1,4 @@
-#Second-order Camera-aware Color Transformation for Cross-domain Person Re-identification [[paper]](https://openaccess.thecvf.com/content/ACCV2020/papers/Xiang_Second-order_Camera-aware_Color_Transformation_for_Cross-domain_Person_Re-identification_ACCV_2020_paper.pdf)
+# Second-order Camera-aware Color Transformation for Cross-domain Person Re-identification [[paper]](https://openaccess.thecvf.com/content/ACCV2020/papers/Xiang_Second-order_Camera-aware_Color_Transformation_for_Cross-domain_Person_Re-identification_ACCV_2020_paper.pdf)
 
 ```
 @InProceedings{Xiang_2020_ACCV,
